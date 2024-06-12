@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main() {
+func repeticiones() {
 
 	// Ciclo for
 
