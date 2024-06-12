@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func condicionSwitch() {
 	var fruta string
 
 	fmt.Print("Ingrese un valor alfanumérico: ")
